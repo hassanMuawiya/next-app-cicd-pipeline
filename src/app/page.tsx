@@ -33,7 +33,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            GIHUB ACTIONS
+            TAHA NEED DONKEY OIL
           </a>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
